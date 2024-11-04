@@ -6,7 +6,7 @@ This project focuses on developing a machine learning model to predict whether a
 
 ## Key Features:
 - Dataset: Structured data from health check-ups in CSV format
-- Target: Binary classification - Predict whether a patient has hypertension or not
+- Target: Binary classification - Predict whether a patient will have hypertension within 2 years
 - Language: Python
 - Libraries: pandas, scikit-learn, matplotlib, seaborn, numpy
 Project Workflow
