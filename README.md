@@ -5,13 +5,12 @@ Data Analysis and Prediction of Hypertension from South Korean Health Check-up D
 This project focuses on developing a machine learning model to predict whether a patient has hypertension based on their health checkup data. The dataset contains structured data from healthcare screenings, and the goal is to identify key variables that influence hypertension and improve the prediction model's performance through various machine learning algorithms.
 
 ## Key Features:
-- Domain: Healthcare
 - Dataset: Structured data from health check-ups in CSV format
 - Target: Binary classification - Predict whether a patient has hypertension or not
 - Language: Python
 - Libraries: pandas, scikit-learn, matplotlib, seaborn, numpy
 Project Workflow
-1. Data Preprocessing: Handling Missing Data: Missing values in the dataset are imputed using statistical techniques (mean/mode/median imputation or others).
+1. Data Preprocessing: Handling Missing Data: Missing values in the dataset are imputed 
 Outlier Detection and Removal: Outliers in critical features such as blood pressure or weight are identified and removed.
 Data Normalization: Continuous variables (e.g., weight, height) are normalized to ensure all features are on a similar scale, improving model performance.
 
